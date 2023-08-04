@@ -1,0 +1,77 @@
+/*
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav-bar1{
+    isplay: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+<nav class="nav-bar">
+      <div class="nav-left">
+       <img src="./Left section.png">
+      </div>
+      </nav>
+
+
+      <nav class="nav-bar1">
+      <div class="nav-right1">
+       <img src="./top arrow navigation.png">
+       </div>
+       <div class="nav-right2">
+        <img src="./User.png">
+       </div>
+    </nav>
+
+
+
+
+    <nav class="right">
+       <div class="head_right">
+        <img src="./top arrow navigation.png">
+        <img src="./User.png">
+       </div>
+     </nav>
+    
+    
+h1{
+    align-items: center;
+}
+    .right{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      
+    }
+   .head_right{
+    background-image: url(./main.png);
+    }
+
+
+
+    border-width: 0px, 0px, 0px, 0px;
+
+border-style: solid;
+
+border-color: rgba(40, 40, 40, 1);
+
+
+    */
+  *{
+    margin: 0;
+  }
+   nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+   }
+   .nav-right{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color:rgb(35, 33, 33) ;
+   }
